@@ -1,19 +1,23 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
 
-
+/* Headings */
 h1 {
-  font-size: 40px;
-  font-family: Arial
+  font-size: 32px;
 }
+
 h2 {
-  font-size: 25px;
-  font-family: Arial
+  font-size: 24px;
 }
+
 h3 {
-  font-family: Arial
+  font-size: 18px;
 }
+
+/* Paragraph */
 p {
   font-size: 14px;
-  font-family: Arial
 }
-
 
